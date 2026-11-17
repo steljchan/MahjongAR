@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="chun" size="0.020000 0.035556" />
+    <ImageTarget name="haku" size="0.020000 0.035556" />
+    <ImageTarget name="pin2" size="0.020000 0.026667" />
+    <ImageTarget name="pin1" size="0.020000 0.026667" />
+    <ImageTarget name="pin3" size="0.020000 0.011250" />
+    <ImageTarget name="man2" size="0.020000 0.035556" />
+    <ImageTarget name="ton" size="0.020000 0.035556" />
+    <ImageTarget name="sou9" size="0.020000 0.035556" />
+    <ImageTarget name="sou8" size="0.020000 0.035556" />
+    <ImageTarget name="sou7" size="0.020000 0.035556" />
+    <ImageTarget name="sou6" size="0.020000 0.035556" />
+    <ImageTarget name="sou5" size="0.020000 0.035556" />
+    <ImageTarget name="sou4" size="0.020000 0.035556" />
+    <ImageTarget name="sou3" size="0.020000 0.035556" />
+    <ImageTarget name="sou2" size="0.020000 0.035556" />
+    <ImageTarget name="sou1" size="0.020000 0.035556" />
+    <ImageTarget name="sha" size="0.020000 0.035556" />
+    <ImageTarget name="pin9" size="0.020000 0.035556" />
+    <ImageTarget name="pin8" size="0.020000 0.035556" />
+    <ImageTarget name="pin7" size="0.020000 0.035556" />
+    <ImageTarget name="pin6" size="0.020000 0.035556" />
+    <ImageTarget name="pin5" size="0.020000 0.035556" />
+    <ImageTarget name="pin4" size="0.020000 0.035556" />
+    <ImageTarget name="pei" size="0.020000 0.035556" />
+    <ImageTarget name="nan" size="0.020000 0.035556" />
+    <ImageTarget name="man9" size="0.020000 0.035556" />
+    <ImageTarget name="man8" size="0.020000 0.035556" />
+    <ImageTarget name="man7" size="0.020000 0.035556" />
+    <ImageTarget name="man6" size="0.020000 0.035556" />
+    <ImageTarget name="man5" size="0.020000 0.035556" />
+    <ImageTarget name="man4" size="0.020000 0.035556" />
+    <ImageTarget name="man3" size="0.020000 0.035556" />
+    <ImageTarget name="man1" size="0.020000 0.035556" />
+    <ImageTarget name="hatsu" size="0.020000 0.035556" />
+  </Tracking>
+</QCARConfig>

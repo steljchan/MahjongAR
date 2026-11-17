@@ -1,0 +1,14 @@
+{
+    "name": "Sj000001.ComUnityXrArcore.Editor.Tests",
+    "references": [
+        "Sj000001.ComUnityXrArcore.Editor",
+        "Sj000001.ComUnityXrArcore"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

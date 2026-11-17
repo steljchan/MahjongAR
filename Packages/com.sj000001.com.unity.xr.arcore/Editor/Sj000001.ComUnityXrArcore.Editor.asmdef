@@ -1,0 +1,10 @@
+{
+    "name": "Sj000001.ComUnityXrArcore.Editor",
+    "references": [
+      "Sj000001.ComUnityXrArcore"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": []
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Sj000001.ComUnityXrArcore.Tests",
+    "references": [
+        "Sj000001.ComUnityXrArcore"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}
